@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Csoport
+comment1.params=tanulo
+comment1.target=boolean\ tanuloHozzaadasa(Tanulo)
+comment2.params=
+comment2.target=java.util.ArrayList\ pozJegyTanulok()
+numComments=3

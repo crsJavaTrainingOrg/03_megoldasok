@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Egyesulet
+comment1.params=tag
+comment1.target=boolean\ tagHozzaadas(Tag)
+comment2.params=osszeg
+comment2.target=java.util.ArrayList\ kiNemFizetett(int)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Naplo
+comment1.params=nev
+comment1.target=Naplo(java.lang.String)
+comment2.params=bejegyzes
+comment2.target=void\ bejegyzesHozzaadas(java.lang.String)
+comment3.params=regiBejegyzes\ ujBejegyzes
+comment3.target=boolean\ bejegyzesFelulirasa(java.lang.String,\ java.lang.String)
+numComments=4

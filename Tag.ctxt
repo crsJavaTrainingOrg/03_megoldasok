@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Tag
+comment1.params=nev\ cim\ fizetettOsszeg
+comment1.target=Tag(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNev()
+comment3.params=
+comment3.target=java.lang.String\ getCim()
+comment4.params=
+comment4.target=int\ getFizetettOsszeg()
+comment5.params=osszeg
+comment5.target=void\ fizetettOsszegBeallit(int)
+numComments=6
