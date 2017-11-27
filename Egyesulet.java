@@ -17,7 +17,7 @@ public class Egyesulet{
     public ArrayList<Tag> kiNemFizetett(int osszeg){
         ArrayList<Tag> kinemfizetett = new ArrayList<Tag>();
         for(Tag t: tagok){
-            if(t.getFizetettOsszeg() - osszeg > 0){
+            if(osszeg - t.getFizetettOsszeg() > 0){
                 kinemfizetett.add(t);
             }
         }
