@@ -43,6 +43,9 @@ public class Naplo{
                 
             }
         }
+        else {
+            return bejegyzesek;
+        }
         return utolsobejegyzesek;
     }
     

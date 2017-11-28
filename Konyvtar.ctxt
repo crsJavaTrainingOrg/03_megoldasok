@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Konyvtar
+comment1.params=cim\ szerzo
+comment1.target=void\ konyvHozzaadasa(java.lang.String,\ java.lang.String)
+comment2.params=cim\ szerzo
+comment2.target=Konyv\ kolcsonzes(java.lang.String,\ java.lang.String)
+comment3.params=konyv
+comment3.target=boolean\ visszavisz(Konyv)
+numComments=4
