@@ -2,7 +2,7 @@ public class Konyv{
 
     private String szerzo;
     private String cim;
-    private boolean elerhetoe;
+    public boolean elerhetoe;
 
     public Konyv(String cim, String szerzo){
         this.cim = cim;
